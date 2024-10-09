@@ -1,3 +1,5 @@
+<h1>⚠️THE REPOSITORY HAS BEEN MOVED TO <a href="[https://github.com/kibria5](https://gitlab.com/ReStranger/vendor_xiaomi_miuicamera-sapphire#)">GitLab</a>⚠️</h1>
+
 <h1>⚠️WARNING⚠️</h1>
 The original author made this repository private. This is the latest open version of the repository. This is actually a fork. Original autor: <a href="https://github.com/kibria5">Mohammad Kibria</a>
 
